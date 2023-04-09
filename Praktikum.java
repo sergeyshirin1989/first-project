@@ -1,5 +1,1 @@
-public class Converter {
-    public static void main(String[] args) {
-        // Ваш код    
-    }
-} 
+  public static void main(String[] args) {}
